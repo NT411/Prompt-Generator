@@ -109,7 +109,6 @@ emit_ps1_assignment() {
     printf "PS1=\$'%s'\n" "$s"
   else
     # Zsh: % tokens, and \n should become real newlines => also use $'...'
-    # Backslashes (from custom text) should be preserved as literal; no special doubling needed.
     printf "PS1=\$'%s'\n" "$logical"
   fi
 }
