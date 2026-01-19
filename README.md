@@ -103,11 +103,11 @@ The script maps keys to the correct string set depending on your shell.
 # Installation
 ## 1) Clone the repo
 ```bash
-git clone https://linktorepo
+git clone https://github.com/NT411/Prompt-Generator
 ```
 ## 2) Open the folder 
 ```bash
-cd repofolder
+cd Prompt-Generator
 ```
 ## 3 ) Make the script executable
 ```bash
