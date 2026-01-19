@@ -6,7 +6,7 @@ It outputs a ready-to-copy `PS1=$'...'` assignment line.
 # Screenshots
 
 **Shell selection**  
-![Shell Selection](./shellSelector)
+![Shell Selection](./shellSelector.png)
 
 **Prompt building**  
 ![PS1 Creation](./promptGenerator.png)
